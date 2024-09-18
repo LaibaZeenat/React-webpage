@@ -1,0 +1,11 @@
+.contact_section h1{
+    padding-top: 72px;
+    font-weight: 800;
+    font-size: 48px;
+}
+.contact_section p{
+    font-weight: 500;
+}
+.contact_section div{
+    padding-right: 50px;
+}

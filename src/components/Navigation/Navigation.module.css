@@ -1,0 +1,14 @@
+nav{
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+  }
+li {
+    list-style: none;
+    display: inline;
+    margin-left: 20px;
+  }
+  
+  
